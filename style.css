@@ -163,3 +163,59 @@ button, #joke {
     margin-top: 167px;
     
 }
+@media(max-width:970px){
+       #container{
+        margin-top: 80px;
+    }
+    @media(max-width:607px){
+    #container{
+        width:550px;
+    }
+    }    
+}
+
+@media(max-width:563px){
+    #container{
+        width:550px;
+    }
+    @media(max-width:560px){
+       #container{
+        width:520px;
+    }
+}
+    @media(max-width:531px){
+       #container{
+        width:500px;
+    }
+}
+@media(max-width:510px){
+       #container{
+        width:480px;
+    }
+}
+@media(max-width:500px){
+       #lighter{
+        font-size: 20px;
+    }
+}
+@media(max-width:491px){
+       #container{
+        width:450px;
+    }
+}
+@media(max-width:459px){
+       #container{
+        width:400px;
+    }
+}
+@media(max-width:408px){
+       #container{
+        width:380px;
+    }
+}
+@media(max-width:389px){
+       #container{
+        width:340px;
+    }
+}
+}
