@@ -234,6 +234,18 @@ button, #joke {
         width:140px;
     }
 }
+@media(max-width:345px){
+    #container{
+        width: 320px;
+    }
+}
+    @media(max-width:389px){
+       button,#joke{
+        height: 30px;
+        font-size: 18px;
+        width:120px;
+    }
+}
 @media(max-width:338px){
        #container{
         width:300px;
